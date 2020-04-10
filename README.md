@@ -44,7 +44,7 @@ repository = {
 
 * **PUT /repositories/:id**: Rota para alterar apenas o *title*, a *url* e as *techs* de um repositório;
 
-* **DELETE /**: Rota para deletar o repositório com o *id* presente nos parâmetros da rota;
+* **DELETE /repositories/:id**: Rota para deletar o repositório com o *id* presente nos parâmetros da rota;
 
 * **POST /repositories/:id/like**: Rota para dar um like no repositório referente ao *id* presente nos parâmetros da rota.
 
