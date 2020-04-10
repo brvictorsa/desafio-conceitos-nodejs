@@ -1,8 +1,6 @@
-# GoStack 11 Rocketseat
+## GoStack 11 Rocketseat
 
 Desafio da criação de uma aplicação backend utilizando os conceitos do Node.js aprendidos. Este projeto também conta com testes automatizados para cobrir os requisitos funcionais implementados.
-
-------------
 
 ## Backend construído utilizando:
 
