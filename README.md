@@ -24,7 +24,7 @@ Aplicação deve armazenar repositórios do seu portfólio. Deve permitir a cria
 
 ## Entidade: repository
 
-O repositório é representada pelos atributos a seguir: 
+O repositório é representado pelos atributos a seguir: 
 
 ```js
 repository = {
@@ -66,3 +66,11 @@ yarn dev //or npm run dev
 ```js
 yarn test //or npm run test
 ```
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Victor Santos - vSA 2020
